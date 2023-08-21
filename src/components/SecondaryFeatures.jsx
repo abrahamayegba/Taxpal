@@ -220,7 +220,7 @@ export function SecondaryFeatures() {
           </h2>
           <p className="mt-4 text-xl tracking-tight text-slate-700">
             We understand that proposing to complicate your routine business
-            tasks might raise a few eyebrows, so we're here to make things
+            tasks might raise a few eyebrows, so we&apos;re here to make things
             simpler for you.
           </p>
         </div>

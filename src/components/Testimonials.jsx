@@ -93,8 +93,8 @@ export function Testimonials() {
             Embraced by Businesses Globally.
           </h2>
           <p className="mt-4 text-xl tracking-tight text-slate-700">
-            Our software's elegance captures hearts effortlessly. Simplicity is
-            our art—crafted by omitting complex features.
+            Our software&apos;s elegance captures hearts effortlessly.
+            Simplicity is our art—crafted by omitting complex features.
           </p>
         </div>
         <ul

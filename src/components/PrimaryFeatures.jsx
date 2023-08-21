@@ -77,8 +77,8 @@ export function PrimaryFeatures() {
             Bookkeeping Essentials at Your Fingertips.
           </h2>
           <p className=" mt-6 text-xl tracking-tight text-blue-100">
-            That is, if you're not overly concerned about minor intricacies like
-            adhering to tax regulations.
+            That is, if you&apos;re not overly concerned about minor intricacies
+            like adhering to tax regulations.
           </p>
         </div>
         <Tab.Group
