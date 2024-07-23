@@ -1,27 +1,56 @@
 # Taxpal
 
-Taxpal is a Website built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+[![Taxpal](./src/public/taxpal.png)](https://taxpal-beta.vercel.app/)
 
-## Getting started
+**Taxpal** is a website built with Next.js, designed to simplify accounting for small businesses. Unlike other bookkeeping tools that are precise but complex, Taxpal prioritizes user-friendliness, making financial tasks hassle-free and minimizing audit concerns.
 
-To get started, first install the npm dependencies:
+## Features
 
-```bash
-npm install
-```
+- **User-Friendly Interface**: Designed with simplicity in mind, Taxpal makes accounting tasks straightforward and stress-free.
+- **Simplified Bookkeeping**: Focus on ease of use without sacrificing essential bookkeeping functionalities.
+- **User-Friendly Interface**: Inspired by Tailwind UI, the app offers a clean, intuitive, and responsive design.
+- **Audit-Ready**: Keep your financial records in order with minimal effort, ensuring you are always prepared for audits.
 
-Next, run the development server:
+**Accounting Made Simple for Small Businesses**
+While many bookkeeping tools are precise but complex, we prioritize user-friendliness over intricate accuracy, aiming to keep your financial tasks hassle-free and audit concerns at bay. Taxpal is designed to meet the unique needs of small businesses by simplifying the accounting process.
 
-```bash
-npm run dev
-```
+## Getting Started
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+### Installation
 
-## Learn more
+1. **Clone the repository:**
 
-To learn more about the technologies used in this site, see the following resources:
+   ```bash
+   git clone https://github.com/your-username/taxpal.git
+   cd taxpal
+   ```
 
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
+2. **Install the dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The app will automatically reload if you make edits.
+
+### Contributing
+
+- Fork the repository
+- Create a branch
+  ```bash
+  git checkout -b fix/amazingFix
+  ```
+- Commit your changes and push to your branch
+  ```bash
+  git commit -m "made an amazingFix"
+  git push origin fix/amazingFix
+  ```
+- Open a pull request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
