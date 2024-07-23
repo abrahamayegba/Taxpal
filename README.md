@@ -11,7 +11,7 @@
 - **User-Friendly Interface**: Inspired by Tailwind UI, the app offers a clean, intuitive, and responsive design.
 - **Audit-Ready**: Keep your financial records in order with minimal effort, ensuring you are always prepared for audits.
 
-**Accounting Made Simple for Small Businesses**
+**Accounting Made Simple for Small Businesses**:
 While many bookkeeping tools are precise but complex, we prioritize user-friendliness over intricate accuracy, aiming to keep your financial tasks hassle-free and audit concerns at bay. Taxpal is designed to meet the unique needs of small businesses by simplifying the accounting process.
 
 ## Getting Started
