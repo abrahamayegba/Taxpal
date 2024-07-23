@@ -33,8 +33,10 @@ export function Hero() {
         tasks hassle-free and audit concerns at bay.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="/register">Get 3 months free</Button>
-        <Button href="#" variant="outline">
+        <Button className={' text-sm md:text-lg'} href="/register">
+          Get 3 months free
+        </Button>
+        <Button className={' text-sm md:text-lg'} href="#" variant="outline">
           <svg
             aria-hidden="true"
             className="h-3 w-3 flex-none fill-blue-600 group-active:fill-current"
