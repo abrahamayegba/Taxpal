@@ -7,7 +7,6 @@ import avatarImage3 from '@/images/avatars/avatar-3.png'
 import avatarImage4 from '@/images/avatars/avatar-4.png'
 import avatarImage5 from '@/images/avatars/avatar-5.png'
 import avatarImage6 from '@/images/avatars/avatar-6.png'
-import avatarImage7 from '@/images/avatars/avatar-7.png'
 
 const testimonials = [
   [
@@ -17,7 +16,7 @@ const testimonials = [
       author: {
         name: 'Ifeoma Okonkwo',
         role: 'Founder of Kiehn and Sons',
-        image: avatarImage7,
+        image: avatarImage3,
       },
     },
     {
@@ -26,7 +25,7 @@ const testimonials = [
       author: {
         name: 'Fatima Ibrahim',
         role: 'Director at Velocity Industries',
-        image: avatarImage7,
+        image: avatarImage2,
       },
     },
   ],
@@ -46,7 +45,7 @@ const testimonials = [
       author: {
         name: 'Amina Bello',
         role: 'COO at Armstrong Inc',
-        image: avatarImage7,
+        image: avatarImage1,
       },
     },
   ],
@@ -66,7 +65,7 @@ const testimonials = [
       author: {
         name: 'Amina Bello',
         role: 'Director at Velocity Industries',
-        image: avatarImage7,
+        image: avatarImage4,
       },
     },
   ],

@@ -114,7 +114,7 @@ export function Footer() {
                   </Link>
                 ))}
               </div>
-              <p className="flex pt-8 text-sm leading-5 text-gray-600 md:justify-center">
+              <p className="hidden pt-8 text-sm leading-5 text-gray-600 md:flex md:justify-center">
                 &copy; {`${year}`} Built by
                 <Link
                   target="_blank"
@@ -123,7 +123,6 @@ export function Footer() {
                 >
                   Abraham Ayegba
                 </Link>
-                {'. '}
                 All rights reserved.
               </p>
             </div>
